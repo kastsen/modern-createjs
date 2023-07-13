@@ -1,6 +1,6 @@
 {
   "name": "modern-createjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CreateJS is a library for building high-performance interactive 2D content in HTML5",
   "main": "createjs.js",
   "repository": {
