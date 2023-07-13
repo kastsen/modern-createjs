@@ -1,0 +1,20 @@
+{
+  "name": "modern-createjs",
+  "version": "1.0.0",
+  "description": "CreateJS is a library for building high-performance interactive 2D content in HTML5",
+  "main": "createjs.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kastsen/modern-createjs"
+  },
+  "keywords": [
+    "createjs",
+    "qs"
+  ],
+  "author": "QS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kastsen/modern-createjs/issues"
+  },
+  "homepage": "https://github.com/kastsen/modern-createjs#readme"
+}
